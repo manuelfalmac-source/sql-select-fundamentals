@@ -6,4 +6,4 @@ Además, puede afectar el rendimiento de la consulta al traer más información 
 Hacen más entendibles los nombres de las columnas para personas que no conocen la estructura técnica de la base.
 total_amount
 quizás no sabe inmediatamente qué significa. Con un alias se puede mostrar como:
-total_amount AS total_venta
+total_amount AS total_venta`
